@@ -1,4 +1,4 @@
-function Courses() {
+function Courses({ courses }) {
   return <div></div>;
 }
 
