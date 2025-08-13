@@ -5,13 +5,34 @@ import { FaChevronLeft, FaChevronRight } from "react-icons/fa";
 function Courses({ courses, removeCourse }) {
   const [index, setIndex] = useState(0);
   const { content, title, price } = courses[index];
+  const checkIndex = (index) => {
+    if (index < 0) {
+      return courses.length - 1;
+    }
+    if (index > courses.length - 1) {
+      return 0;
+    }
+    return index;
+  };
+  const prevCourse = (index) => {
+    setIndex((index) => {
+      let newIndex = index - 1;
+      return checkIndex(newIndex);
+    });
+  };
+  const nextCourse = (index) => {
+    setIndex((index) => {
+      let newIndex = index + 1;
+      return checkIndex(newIndex);
+    });
+  };
   return (
     <div className="courseMainDiv">
       <div>
         <h2>Kurslarım</h2>
       </div>
       <div className="cardDiv">
-        <button className="prevNextBtn">
+        <button className="prevNextBtn" onClick={prevCourse}>
           <FaChevronLeft />
         </button>
         <div className="card">
@@ -21,7 +42,7 @@ function Courses({ courses, removeCourse }) {
           </div>
           <p>{content}</p>
         </div>
-        <button className="prevNextBtn">
+        <button className="prevNextBtn" onClick={nextCourse}>
           <FaChevronRight />
         </button>
 
