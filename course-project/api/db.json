@@ -2,31 +2,31 @@
   "courses": [
     {
       "id": 1,
-      "content": "Muhteşem Angular Kursu asdasasasdasasdasdas  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim ad accusamus, cum at illo animi optio sint voluptas. Veniam iusto, sequi commodi omnis quas vitae minus minima cumque consequuntur quasi. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Qui quasi itaque quis in voluptate numquam laudantium atque est vel? Assumenda doloribus similique ipsum quas aliquam accusantium rem unde reprehenderit laborum?",
+      "content": "Muhteşem Angular Kursu ile modern web geliştirmeye adım atın. Angular framework’ünün güçlü yönlerini öğrenerek bileşen tabanlı mimari, veri bağlama, servisler, yönlendirme ve HTTP istekleri gibi konularda uzmanlaşın. Pratik örnekler ve gerçek proje çalışmalarıyla hem frontend becerilerinizi geliştirin hem de kariyerinizde büyük bir adım atın. Sıfırdan ileri seviyeye kadar rehberli ilerleyin.",
       "title": "Angular",
-      "price": 69
+      "price": 100
     },
     {
       "id": 2,
-      "content": "Muhteşem Bootstrap Kursu asdasasasdasasdasdas  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim ad accusamus, cum at illo animi optio sint voluptas. Veniam iusto, sequi commodi omnis quas vitae minus minima cumque consequuntur quasi. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Qui quasi itaque quis in voluptate numquam laudantium atque est vel? Assumenda doloribus similique ipsum quas aliquam accusantium rem unde reprehenderit laborum?",
+      "content": "Bootstrap ile modern arayüz tasarımına güçlü bir başlangıç yapın. Bileşen tabanlı yaklaşım, grid sistemi, responsive tasarım, yardımcı sınıflar, formlar, butonlar ve kartlar ile hızla profesyonel görünümler üretin. Sass desteği, ikonlar, modal ve offcanvas gibi etkileşimli öğelerle proje deneyiminizi zenginleştirin. Gerçek dünya örnekleri, en iyi pratikler ve performans ipuçlarıyla, temel seviyeden ileri düzeye güvenle ilerleyin. Canlı demo ve mini projelerle.",
       "title": "Bootstrap",
-      "price": 69
+      "price": 100
     },
     {
       "id": 3,
-      "content": "Muhteşem C Programlama Kursu asdasasasdasasdasdas  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim ad accusamus, cum at illo animi optio sint voluptas. Veniam iusto, sequi commodi omnis quas vitae minus minima cumque consequuntur quasi. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Qui quasi itaque quis in voluptate numquam laudantium atque est vel? Assumenda doloribus similique ipsum quas aliquam accusantium rem unde reprehenderit laborum?",
+      "content": "C Programlama kursu ile yazılım dünyasına sağlam bir temel atın. Değişkenler, veri tipleri, operatörler, döngüler, fonksiyonlar ve göstergeler gibi temel konuları öğrenin. Bellek yönetimi, dosya işlemleri ve algoritma geliştirme becerilerinizi geliştirin. Gerçek uygulama örnekleri ve proje çalışmaları ile hem akademik hem de profesyonel hayatta güçlü bir başlangıç yapın. Ek alıştırmalar ve quizler içerir.",
       "title": "C Programlama",
-      "price": 69
+      "price": 100
     },
     {
       "id": 4,
-      "content": "Muhteşem Frontend Kursu asdasasasdasasdasdas sadasdasdasda  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim ad accusamus, cum at illo animi optio sint voluptas. Veniam iusto, sequi commodi omnis quas vitae minus minima cumque consequuntur quasi. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Qui quasi itaque quis in voluptate numquam laudantium atque est vel? Assumenda doloribus similique ipsum quas aliquam accusantium rem unde reprehenderit laborum?",
+      "content": "Frontend geliştirme kursu ile HTML, CSS ve JavaScript teknolojilerini derinlemesine öğrenin. Modern kullanıcı arayüzleri, etkileşimli sayfalar ve responsive tasarım teknikleriyle profesyonel web siteleri oluşturun. API entegrasyonları, form yönetimi, animasyonlar ve en iyi pratikler ile frontend dünyasında güçlü bir yere sahip olun. Canlı dersler ve proje desteği sunar.",
       "title": "Frontend Kursu",
-      "price": 69
+      "price": 100
     },
     {
       "id": 5,
-      "content": "Muhteşem Html Kursu asdasasasdasasdasdas",
+      "content": "HTML kursu ile web sayfalarının temel yapı taşlarını öğrenin. Etiketler, başlıklar, paragraflar, bağlantılar, resimler, listeler ve tablolar ile zengin içerikler oluşturun. Form elemanları, semantik etiketler ve erişilebilirlik standartları hakkında bilgi sahibi olun. Pratik örnekler ve mini projelerle öğrendiklerinizi pekiştirin. Uygulamalı eğitim ve sertifika imkanı.",
       "title": "Html Kursu",
       "price": 0
     }
