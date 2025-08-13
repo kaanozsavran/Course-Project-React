@@ -25,7 +25,7 @@ body {
   color: red;
 }
 .cardDeleteBtn {
-  width: 100px;
+  width: 200px;
   padding: 10px;
   border-radius: 30px;
   border: none;
@@ -42,4 +42,8 @@ body {
   font-size: 20px;
   height: 32px;
   cursor: pointer;
+}
+.courseTitleAndButton {
+  text-align: center;
+  margin-bottom: 20px;
 }
